@@ -1,0 +1,10 @@
+*.bak
+*.rar
+*.zip
+*.png
+*.jpg
+config.php
+_notes/
+s/
+Thumbs.db
+jquery-letterfx.min.*
